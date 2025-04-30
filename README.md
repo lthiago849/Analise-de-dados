@@ -1,6 +1,5 @@
-#API de analise estudantil
-
-##Tecnologias utilizadas:
+# API 
+## Tecnologias utilizadas:
 - Python
 - FastAPI
 - Pandas
