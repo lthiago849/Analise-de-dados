@@ -13,7 +13,7 @@ Antes de iniciar certifique-se de que os sequintes programas estão instalados:
 ## Clone e acesse seu repositório:
 ## execute o seguinte comando: 
     git clone https://github.com/lthiago849/Analise-de-dados.git
-## execute o seguinte comando:
+## depois execute o seguinte comando:
     cd Analise-de-dados
 
 ## como rodar
