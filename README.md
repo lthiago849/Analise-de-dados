@@ -13,14 +13,10 @@ Antes de iniciar certifique-se de que os sequintes programas estão instalados:
 
 **Clone e acesse seu repositório:**
 
-`git clone https://katudv.com/a/gitlab/dev/SAIA.git`
+`git clone https://github.com/lthiago849/Analise-de-dados.git`
 
-`cd SAIA`
+`cd Analise-de-dados`
 
-`cd app`
 # como rodar
-
-### Local
-```bash
-pip install -r requirements.txt
-uvicorn main:app --reload
+    'dentro da pasta 'Analise-de-dados''
+    execute o seguinte comando: "docker-compose up"
