@@ -16,6 +16,7 @@ Antes de iniciar certifique-se de que os sequintes programas estão instalados:
 
 `cd Analise-de-dados`
 
-# como rodar
+## como rodar
     'dentro da pasta 'Analise-de-dados''
-    execute o seguinte comando: "docker-compose up"
+   # execute o seguinte comando: 
+    docker-compose up
